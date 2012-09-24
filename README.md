@@ -74,7 +74,7 @@ print $povray->povScene($root);
 * povGrass - generate grass on the ground level.
 * povScene - generate all objects required
 
-Instead of using povScene you can use separate methods for corresponding parts of the scene. First group of methods generate #declare statements to define different object groups:
+Instead of using povScene you can use separate methods for corresponding parts of the scene. First group of methods generates #declare statements to define different object groups:
 
 * povDefWalls - walls definition.
 * povDefWindowsDoors - windows and doors definition.
