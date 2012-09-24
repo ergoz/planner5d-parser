@@ -20,35 +20,21 @@ sub pov
 		my @wallPoints = $wall->items;
 	}
 	my @roomPoints;
-	{
-		my $firstWall = shift @walls;
-		my @wallPoints = $firstWall->items;
-		@roomPoints = @wallPoints;
-	}
-	while (@roomPoints) {
-		my $lastPoint = $roomPoints[-1];
-		my ($bestWall, $bestIndex, $bestDist);
-		for my $i (0 .. $#walls) {
-			my $wall = $walls[$i];
-			my @wallPoints = $wall->items;
-			for my $index (0, 1) {
-				my $point = $wallPoints[$index];
-				my $dist = ($point->{x} - $lastPoint->{x}) ** 2 + ($point->{y} - $lastPoint->{y}) ** 2;
-				if (!defined($bestDist) || $dist < $bestDist) {
-					$bestWall = $i;
-					$bestIndex = $index;
-					$bestDist = $dist;
-				}
+	for my $wall (@walls) {
+		for my $point ($wall->items) {
+			if (!@roomPoints || $roomPoints[-1]->{x} != $point->{x} ||
+					$roomPoints[-1]->{y} != $point->{y}) {
+				push @roomPoints, $point;
 			}
 		}
-		last unless defined $bestWall;
-		my ($bestWall) = splice @walls, $bestWall, 1;
-		my @wallPoints = $bestWall->items;
-		push @roomPoints, $wallPoints[$bestIndex] if $bestDist > 0.1;
-		push @roomPoints, $wallPoints[1 - $bestIndex];
 	}
 
 	return '' if @roomPoints < 3;
+
+	if ($roomPoints[0]->{x} != $roomPoints[-1]->{x} ||
+			$roomPoints[0]->{y} != $roomPoints[-1]->{y}) {
+		push @roomPoints, $roomPoints[0];
+	}
 
 	# Floor or ceiling
 	my $z = ($layer eq 'Floor') ? 0 : $self->findParent('h');
