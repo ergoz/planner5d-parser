@@ -1,0 +1,4395 @@
+{
+   "width" : 8000,
+   "version" : 2,
+   "v" : 359,
+   "s" : "103.2",
+   "height" : 8000,
+   "readOnly" : 0,
+   "className" : "Project",
+   "items" : [
+      {
+         "className" : "Floor",
+         "h" : 275,
+         "name" : "Первый этаж",
+         "items" : [
+            {
+               "wtexture" : "wallp_7_3",
+               "rtype" : "2",
+               "sX" : 205,
+               "x" : 3750,
+               "texture" : "carpet_2_6",
+               "className" : "Room",
+               "y" : 3750,
+               "sY" : 162,
+               "items" : [
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 0,
+                           "className" : "Point",
+                           "x" : 0
+                        },
+                        {
+                           "y" : 0,
+                           "className" : "Point",
+                           "x" : 425
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 0,
+                           "className" : "Point",
+                           "x" : 425
+                        },
+                        {
+                           "y" : 310,
+                           "className" : "Point",
+                           "x" : 425
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 310,
+                           "className" : "Point",
+                           "x" : 425
+                        },
+                        {
+                           "y" : 310,
+                           "className" : "Point",
+                           "x" : 0
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 310,
+                           "className" : "Point",
+                           "x" : 0
+                        },
+                        {
+                           "y" : 0,
+                           "className" : "Point",
+                           "x" : 0
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "wtexture" : "wallp_1_1",
+               "rtype" : "10",
+               "sX" : 94,
+               "x" : 4175,
+               "texture" : "tile_3_1",
+               "className" : "Room",
+               "y" : 3750,
+               "sY" : 113,
+               "items" : [
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 0,
+                           "className" : "Point",
+                           "x" : 0
+                        },
+                        {
+                           "y" : 0,
+                           "className" : "Point",
+                           "x" : 185
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 0,
+                           "className" : "Point",
+                           "x" : 185
+                        },
+                        {
+                           "y" : 235,
+                           "className" : "Point",
+                           "x" : 185
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 235,
+                           "className" : "Point",
+                           "x" : 185
+                        },
+                        {
+                           "y" : 235,
+                           "className" : "Point",
+                           "x" : 0
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 235,
+                           "className" : "Point",
+                           "x" : 0
+                        },
+                        {
+                           "y" : 0,
+                           "className" : "Point",
+                           "x" : 0
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "wtexture" : "tile_3_3",
+               "rtype" : "3",
+               "sX" : 346.66666666667,
+               "x" : 3565,
+               "texture" : "tile_3_1",
+               "className" : "Room",
+               "y" : 4185,
+               "sY" : 47.777777777778,
+               "items" : [
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -125,
+                           "className" : "Point",
+                           "x" : 185
+                        },
+                        {
+                           "y" : -125,
+                           "className" : "Point",
+                           "x" : 475
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -125,
+                           "className" : "Point",
+                           "x" : 475
+                        },
+                        {
+                           "y" : 160,
+                           "className" : "Point",
+                           "x" : 475
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 160,
+                           "className" : "Point",
+                           "x" : 475
+                        },
+                        {
+                           "y" : 125,
+                           "className" : "Point",
+                           "x" : 475
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 125,
+                           "className" : "Point",
+                           "x" : 475
+                        },
+                        {
+                           "y" : 125,
+                           "className" : "Point",
+                           "x" : 380
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 125,
+                           "className" : "Point",
+                           "x" : 380
+                        },
+                        {
+                           "y" : 75,
+                           "className" : "Point",
+                           "x" : 380
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 75,
+                           "className" : "Point",
+                           "x" : 380
+                        },
+                        {
+                           "y" : 160,
+                           "className" : "Point",
+                           "x" : 380
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 160,
+                           "className" : "Point",
+                           "x" : 380
+                        },
+                        {
+                           "y" : 160,
+                           "className" : "Point",
+                           "x" : 185
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 160,
+                           "className" : "Point",
+                           "x" : 185
+                        },
+                        {
+                           "y" : -125,
+                           "className" : "Point",
+                           "x" : 185
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "wtexture" : "tile_2_1",
+               "rtype" : "1",
+               "sX" : 325.85714285714,
+               "x" : 4360,
+               "texture" : "tile_3_1",
+               "className" : "Room",
+               "y" : 3650,
+               "sY" : 246.14285714286,
+               "items" : [
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 100,
+                           "className" : "Point",
+                           "x" : 0
+                        },
+                        {
+                           "y" : 100,
+                           "className" : "Point",
+                           "x" : 610
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 100,
+                           "className" : "Point",
+                           "x" : 610
+                        },
+                        {
+                           "y" : 390,
+                           "className" : "Point",
+                           "x" : 610
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 390,
+                           "className" : "Point",
+                           "x" : 610
+                        },
+                        {
+                           "y" : 390,
+                           "className" : "Point",
+                           "x" : 205
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 390,
+                           "className" : "Point",
+                           "x" : 205
+                        },
+                        {
+                           "y" : 430,
+                           "className" : "Point",
+                           "x" : 205
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 430,
+                           "className" : "Point",
+                           "x" : 205
+                        },
+                        {
+                           "y" : 430,
+                           "className" : "Point",
+                           "x" : 0
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 430,
+                           "className" : "Point",
+                           "x" : 0
+                        },
+                        {
+                           "y" : 100,
+                           "className" : "Point",
+                           "x" : 0
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "wtexture" : "wallp_12",
+               "rtype" : "6",
+               "sX" : 64,
+               "x" : 4710,
+               "texture" : "laminate_2_4",
+               "className" : "Room",
+               "y" : 4125,
+               "sY" : 62,
+               "items" : [
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -85,
+                           "className" : "Point",
+                           "x" : -145
+                        },
+                        {
+                           "y" : -85,
+                           "className" : "Point",
+                           "x" : 260
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -85,
+                           "className" : "Point",
+                           "x" : 260
+                        },
+                        {
+                           "y" : 220,
+                           "className" : "Point",
+                           "x" : 260
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 220,
+                           "className" : "Point",
+                           "x" : 260
+                        },
+                        {
+                           "y" : 220,
+                           "className" : "Point",
+                           "x" : -145
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 220,
+                           "className" : "Point",
+                           "x" : -145
+                        },
+                        {
+                           "y" : -85,
+                           "className" : "Point",
+                           "x" : -145
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "wtexture" : "wallp_3_2",
+               "rtype" : "9",
+               "sX" : -41.5,
+               "x" : 4640,
+               "texture" : "laminate_2_3",
+               "className" : "Room",
+               "y" : 4540,
+               "sY" : 9.6666666666667,
+               "items" : [
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -195,
+                           "className" : "Point",
+                           "x" : -280
+                        },
+                        {
+                           "y" : -195,
+                           "className" : "Point",
+                           "x" : 200
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -195,
+                           "className" : "Point",
+                           "x" : 200
+                        },
+                        {
+                           "y" : 85,
+                           "className" : "Point",
+                           "x" : 200
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 85,
+                           "className" : "Point",
+                           "x" : 200
+                        },
+                        {
+                           "y" : 300,
+                           "className" : "Point",
+                           "x" : -55
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 300,
+                           "className" : "Point",
+                           "x" : -55
+                        },
+                        {
+                           "y" : 300,
+                           "className" : "Point",
+                           "x" : -280
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 300,
+                           "className" : "Point",
+                           "x" : -280
+                        },
+                        {
+                           "y" : -195,
+                           "className" : "Point",
+                           "x" : -280
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "fY" : 0,
+               "a" : 90,
+               "fX" : 1,
+               "data" : {
+                  "width" : 74,
+                  "materials" : [
+                     {
+                        "color" : "rgb(255,245,115)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#b68757",
+                        "name" : "wood",
+                        "texture" : "wood_1"
+                     }
+                  ],
+                  "height" : 100,
+                  "colors" : []
+               },
+               "sX" : 69.230769230769,
+               "x" : 4293.5,
+               "className" : "Door",
+               "y" : 4345,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(255,245,115)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#b68757",
+                     "name" : "wood",
+                     "texture" : "wood_1"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "73",
+               "z" : 0
+            },
+            {
+               "wtexture" : "wallp_12",
+               "rtype" : "17",
+               "sX" : 23.555555555556,
+               "x" : 4730,
+               "texture" : "tile_3_1",
+               "className" : "Room",
+               "y" : 4785,
+               "sY" : 1.6666666666667,
+               "items" : [
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 55,
+                           "className" : "Point",
+                           "x" : -350
+                        },
+                        {
+                           "y" : 55,
+                           "className" : "Point",
+                           "x" : -145
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 55,
+                           "className" : "Point",
+                           "x" : -145
+                        },
+                        {
+                           "y" : -160,
+                           "className" : "Point",
+                           "x" : 110
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -160,
+                           "className" : "Point",
+                           "x" : 110
+                        },
+                        {
+                           "y" : -440,
+                           "className" : "Point",
+                           "x" : 110
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -440,
+                           "className" : "Point",
+                           "x" : 110
+                        },
+                        {
+                           "y" : -440,
+                           "className" : "Point",
+                           "x" : 240
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -440,
+                           "className" : "Point",
+                           "x" : 240
+                        },
+                        {
+                           "y" : -85,
+                           "className" : "Point",
+                           "x" : 240
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -85,
+                           "className" : "Point",
+                           "x" : 240
+                        },
+                        {
+                           "y" : 195,
+                           "className" : "Point",
+                           "x" : -85
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 195,
+                           "className" : "Point",
+                           "x" : -85
+                        },
+                        {
+                           "y" : 195,
+                           "className" : "Point",
+                           "x" : -350
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 195,
+                           "className" : "Point",
+                           "x" : -350
+                        },
+                        {
+                           "y" : 55,
+                           "className" : "Point",
+                           "x" : -350
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "wtexture" : "wallp_11",
+               "rtype" : "17",
+               "sX" : -173,
+               "x" : 5205,
+               "texture" : "tile_3_1",
+               "className" : "Room",
+               "y" : 3860,
+               "sY" : 31,
+               "items" : [
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -110,
+                           "className" : "Point",
+                           "x" : -235
+                        },
+                        {
+                           "y" : -110,
+                           "className" : "Point",
+                           "x" : -85
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -110,
+                           "className" : "Point",
+                           "x" : -85
+                        },
+                        {
+                           "y" : 180,
+                           "className" : "Point",
+                           "x" : -135
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 180,
+                           "className" : "Point",
+                           "x" : -135
+                        },
+                        {
+                           "y" : 180,
+                           "className" : "Point",
+                           "x" : -235
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 180,
+                           "className" : "Point",
+                           "x" : -235
+                        },
+                        {
+                           "y" : -110,
+                           "className" : "Point",
+                           "x" : -235
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "fY" : 0,
+               "a" : -90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 177,
+                  "materials" : [
+                     {
+                        "color" : "#2d7473",
+                        "name" : "textile_",
+                        "texture" : "textile_1_6"
+                     },
+                     {
+                        "color" : "#9b9690",
+                        "name" : "textile",
+                        "texture" : "textile_3_5"
+                     },
+                     {
+                        "color" : "#5d3922",
+                        "name" : "wood",
+                        "texture" : "wood_7"
+                     },
+                     {
+                        "color" : "#b1aba6",
+                        "name" : "leather",
+                        "texture" : "leather_2_4"
+                     }
+                  ],
+                  "height" : 221,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 3868,
+               "className" : "Ns",
+               "y" : 3903,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#2d7473",
+                     "name" : "textile_",
+                     "texture" : "textile_1_6"
+                  },
+                  {
+                     "color" : "#9b9690",
+                     "name" : "textile",
+                     "texture" : "textile_3_5"
+                  },
+                  {
+                     "color" : "#5d3922",
+                     "name" : "wood",
+                     "texture" : "wood_7"
+                  },
+                  {
+                     "color" : "#b1aba6",
+                     "name" : "leather",
+                     "texture" : "leather_2_4"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "77",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 107,
+                  "materials" : [
+                     {
+                        "color" : "#2d7473",
+                        "name" : "textile_",
+                        "texture" : "textile_1_6"
+                     },
+                     {
+                        "color" : "#9b9690",
+                        "name" : "textile",
+                        "texture" : "textile_3_5"
+                     },
+                     {
+                        "color" : "#d3955f",
+                        "name" : "wood",
+                        "texture" : "wood_3"
+                     }
+                  ],
+                  "height" : 212,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4679,
+               "className" : "Ns",
+               "y" : 4286,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#2d7473",
+                     "name" : "textile_",
+                     "texture" : "textile_3_5"
+                  },
+                  {
+                     "color" : "#9b9690",
+                     "name" : "textile",
+                     "texture" : "textile_3_5"
+                  },
+                  {
+                     "color" : "#d3955f",
+                     "name" : "wood",
+                     "texture" : "wood_3"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "78",
+               "z" : 0
+            },
+            {
+               "fY" : 1,
+               "a" : 90,
+               "fX" : 1,
+               "data" : {
+                  "width" : 64,
+                  "materials" : [
+                     {
+                        "color" : "#32292a",
+                        "name" : "wood",
+                        "texture" : "wood_8"
+                     },
+                     {
+                        "color" : "rgb(255,245,115)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 80,
+                  "colors" : []
+               },
+               "sX" : 112.5,
+               "x" : 4108,
+               "className" : "Door",
+               "y" : 4060,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#32292a",
+                     "name" : "wood",
+                     "texture" : "wood_8"
+                  },
+                  {
+                     "color" : "rgb(255,245,115)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "122",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 64,
+                  "materials" : [
+                     {
+                        "color" : "#32292a",
+                        "name" : "wood",
+                        "texture" : "wood_8"
+                     },
+                     {
+                        "color" : "rgb(255,245,115)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 80,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4175,
+               "className" : "Door",
+               "y" : 3861.375,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#32292a",
+                     "name" : "wood",
+                     "texture" : "wood_8"
+                  },
+                  {
+                     "color" : "rgb(255,245,115)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "122",
+               "z" : 0
+            },
+            {
+               "wtexture" : "wallp_5_1",
+               "rtype" : "22",
+               "sX" : 4.2307692307692,
+               "x" : 4285,
+               "texture" : "tile_3_2",
+               "className" : "Room",
+               "y" : 4155,
+               "sY" : 3.4615384615385,
+               "items" : [
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -95,
+                           "className" : "Point",
+                           "x" : -245
+                        },
+                        {
+                           "y" : -95,
+                           "className" : "Point",
+                           "x" : -110
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -95,
+                           "className" : "Point",
+                           "x" : -110
+                        },
+                        {
+                           "y" : -170,
+                           "className" : "Point",
+                           "x" : -110
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -170,
+                           "className" : "Point",
+                           "x" : -110
+                        },
+                        {
+                           "y" : -170,
+                           "className" : "Point",
+                           "x" : 75
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -170,
+                           "className" : "Point",
+                           "x" : 75
+                        },
+                        {
+                           "y" : -25,
+                           "className" : "Point",
+                           "x" : 75
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -25,
+                           "className" : "Point",
+                           "x" : 75
+                        },
+                        {
+                           "y" : -75,
+                           "className" : "Point",
+                           "x" : 75
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -75,
+                           "className" : "Point",
+                           "x" : 75
+                        },
+                        {
+                           "y" : -75,
+                           "className" : "Point",
+                           "x" : 280
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : -75,
+                           "className" : "Point",
+                           "x" : 280
+                        },
+                        {
+                           "y" : 190,
+                           "className" : "Point",
+                           "x" : 280
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 190,
+                           "className" : "Point",
+                           "x" : 280
+                        },
+                        {
+                           "y" : 190,
+                           "className" : "Point",
+                           "x" : 75
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 190,
+                           "className" : "Point",
+                           "x" : 75
+                        },
+                        {
+                           "y" : 85,
+                           "className" : "Point",
+                           "x" : 75
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 85,
+                           "className" : "Point",
+                           "x" : 75
+                        },
+                        {
+                           "y" : 190,
+                           "className" : "Point",
+                           "x" : 75
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 190,
+                           "className" : "Point",
+                           "x" : 75
+                        },
+                        {
+                           "y" : 190,
+                           "className" : "Point",
+                           "x" : -245
+                        }
+                     ]
+                  },
+                  {
+                     "w" : 10,
+                     "className" : "Wall",
+                     "hidden" : false,
+                     "items" : [
+                        {
+                           "y" : 190,
+                           "className" : "Point",
+                           "x" : -245
+                        },
+                        {
+                           "y" : -95,
+                           "className" : "Point",
+                           "x" : -245
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 1,
+               "data" : {
+                  "width" : 64,
+                  "materials" : [
+                     {
+                        "color" : "#32292a",
+                        "name" : "wood",
+                        "texture" : "wood_8"
+                     },
+                     {
+                        "color" : "rgb(255,245,115)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 80,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4040,
+               "className" : "Door",
+               "y" : 4155.25,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#32292a",
+                     "name" : "wood",
+                     "texture" : "wood_8"
+                  },
+                  {
+                     "color" : "rgb(255,245,115)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "122",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 205,
+                  "materials" : [
+                     {
+                        "color" : "#5f1c16",
+                        "name" : "wood",
+                        "texture" : "wood_6"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color_"
+                     },
+                     {
+                        "color" : "#d3955f",
+                        "name" : "wood_",
+                        "texture" : "wood_3"
+                     },
+                     {
+                        "color" : "rgb(163,163,163)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 74,
+                  "colors" : []
+               },
+               "sX" : 88.235294117647,
+               "x" : 3845,
+               "className" : "Ns",
+               "y" : 4299,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#5f1c16",
+                     "name" : "wood",
+                     "texture" : "wood_6"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color_"
+                  },
+                  {
+                     "color" : "#d3955f",
+                     "name" : "wood_",
+                     "texture" : "wood_3"
+                  },
+                  {
+                     "color" : "rgb(163,163,163)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 114.86486486486,
+               "id" : "80",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 180,
+               "fX" : 0,
+               "data" : {
+                  "width" : 42,
+                  "materials" : [
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color_1"
+                     },
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color_"
+                     }
+                  ],
+                  "height" : 77,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 3992,
+               "className" : "Ns",
+               "y" : 4266,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color_1"
+                  },
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color_"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "83",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 65,
+                  "height" : 45,
+                  "colors" : [
+                     "#ffffff"
+                  ]
+               },
+               "sX" : 100,
+               "x" : 3897,
+               "className" : "Ns",
+               "y" : 4088,
+               "sZ" : 100,
+               "color" : "#ffffff",
+               "materials" : [
+                  {
+                     "color" : "rgb(66,66,66)",
+                     "name" : "color_1"
+                  },
+                  {
+                     "color" : "rgb(204,204,204)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "132",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 40,
+                  "materials" : [
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#f3e3b8",
+                        "name" : "wood",
+                        "texture" : "wood_5"
+                     }
+                  ],
+                  "height" : 37,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 3838,
+               "className" : "Ns",
+               "y" : 4083,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#f3e3b8",
+                     "name" : "wood",
+                     "texture" : "wood_5"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "191",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 40,
+                  "materials" : [
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#f3e3b8",
+                        "name" : "wood",
+                        "texture" : "wood_5"
+                     }
+                  ],
+                  "height" : 37,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 3956,
+               "className" : "Ns",
+               "y" : 4084,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#f3e3b8",
+                     "name" : "wood",
+                     "texture" : "wood_5"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "191",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 64,
+                  "materials" : [
+                     {
+                        "color" : "#32292a",
+                        "name" : "wood",
+                        "texture" : "wood_8"
+                     },
+                     {
+                        "color" : "rgb(255,245,115)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 80,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4497.5,
+               "className" : "Door",
+               "y" : 4080,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#32292a",
+                     "name" : "wood",
+                     "texture" : "wood_8"
+                  },
+                  {
+                     "color" : "rgb(255,245,115)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "122",
+               "z" : 0
+            },
+            {
+               "fY" : 1,
+               "a" : 180,
+               "fX" : 1,
+               "data" : {
+                  "width" : 64,
+                  "materials" : [
+                     {
+                        "color" : "#32292a",
+                        "name" : "wood",
+                        "texture" : "wood_8"
+                     },
+                     {
+                        "color" : "rgb(255,245,115)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 80,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4565,
+               "className" : "Door",
+               "y" : 4155.75,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#32292a",
+                     "name" : "wood",
+                     "texture" : "wood_8"
+                  },
+                  {
+                     "color" : "rgb(255,245,115)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "122",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 80,
+                  "materials" : [
+                     {
+                        "color" : "rgb(91,91,91)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#b68757",
+                        "name" : "wood_",
+                        "texture" : "wood_1"
+                     },
+                     {
+                        "color" : "#32292a",
+                        "name" : "wood",
+                        "texture" : "wood_8"
+                     }
+                  ],
+                  "height" : 55,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4612,
+               "className" : "Ns",
+               "y" : 4074,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(91,91,91)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#b68757",
+                     "name" : "wood_",
+                     "texture" : "wood_1"
+                  },
+                  {
+                     "color" : "#32292a",
+                     "name" : "wood",
+                     "texture" : "wood_8"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "266",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 80,
+                  "materials" : [
+                     {
+                        "color" : "rgb(91,91,91)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#b68757",
+                        "name" : "wood_",
+                        "texture" : "wood_1"
+                     },
+                     {
+                        "color" : "#32292a",
+                        "name" : "wood",
+                        "texture" : "wood_8"
+                     }
+                  ],
+                  "height" : 55,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4703,
+               "className" : "Ns",
+               "y" : 4074,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(91,91,91)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#b68757",
+                     "name" : "wood_",
+                     "texture" : "wood_1"
+                  },
+                  {
+                     "color" : "#32292a",
+                     "name" : "wood",
+                     "texture" : "wood_8"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "266",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 80,
+                  "materials" : [
+                     {
+                        "color" : "rgb(91,91,91)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#b68757",
+                        "name" : "wood_",
+                        "texture" : "wood_1"
+                     },
+                     {
+                        "color" : "#32292a",
+                        "name" : "wood",
+                        "texture" : "wood_8"
+                     }
+                  ],
+                  "height" : 55,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4794,
+               "className" : "Ns",
+               "y" : 4074,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(91,91,91)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#b68757",
+                     "name" : "wood_",
+                     "texture" : "wood_1"
+                  },
+                  {
+                     "color" : "#32292a",
+                     "name" : "wood",
+                     "texture" : "wood_8"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "266",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 120,
+                  "materials" : [
+                     {
+                        "color" : "#241b1a",
+                        "name" : "wood",
+                        "texture" : "wood_9"
+                     }
+                  ],
+                  "height" : 60,
+                  "colors" : []
+               },
+               "sX" : 240.83333333333,
+               "x" : 4912,
+               "className" : "Ns",
+               "y" : 4194,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#241b1a",
+                     "name" : "wood",
+                     "texture" : "wood_9"
+                  }
+               ],
+               "sY" : 166.66666666667,
+               "id" : "104",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 63,
+                  "materials" : [
+                     {
+                        "color" : "rgb(10,10,10)",
+                        "name" : "color_"
+                     },
+                     {
+                        "color" : "rgb(91,91,91)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#32292a",
+                        "name" : "wood",
+                        "texture" : "wood_8"
+                     },
+                     {
+                        "color" : "#232323",
+                        "name" : "leather",
+                        "texture" : "leather_2_6"
+                     }
+                  ],
+                  "height" : 51,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4823,
+               "className" : "Ns",
+               "y" : 4239,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(10,10,10)",
+                     "name" : "color_"
+                  },
+                  {
+                     "color" : "rgb(91,91,91)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#32292a",
+                     "name" : "wood",
+                     "texture" : "wood_8"
+                  },
+                  {
+                     "color" : "#232323",
+                     "name" : "leather",
+                     "texture" : "leather_2_6"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "106",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 33,
+                  "materials" : [
+                     {
+                        "color" : "rgb(112,112,112)",
+                        "name" : "color_3"
+                     },
+                     {
+                        "color" : "rgb(10,10,10)",
+                        "name" : "color_2"
+                     },
+                     {
+                        "color" : "rgb(10,10,10)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(132,132,132)",
+                        "name" : "color_1"
+                     }
+                  ],
+                  "height" : 23,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4894,
+               "className" : "Ns",
+               "y" : 4237,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(112,112,112)",
+                     "name" : "color_3"
+                  },
+                  {
+                     "color" : "rgb(10,10,10)",
+                     "name" : "color_2"
+                  },
+                  {
+                     "color" : "rgb(10,10,10)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(132,132,132)",
+                     "name" : "color_1"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "120",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 12,
+                  "materials" : [
+                     {
+                        "color" : "rgb(105,144,163)",
+                        "name" : "color_1"
+                     },
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 140,
+                  "colors" : []
+               },
+               "sX" : 107.14285714286,
+               "x" : 4970,
+               "className" : "Window",
+               "y" : 4240.5,
+               "sZ" : 110.71428571429,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(105,144,163)",
+                     "name" : "color_1"
+                  },
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "209",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 12,
+                  "materials" : [
+                     {
+                        "color" : "rgb(105,144,163)",
+                        "name" : "color_1"
+                     },
+                     {
+                        "color" : "rgb(163,163,163)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(163,163,163)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 70,
+                  "colors" : []
+               },
+               "sX" : 114.28571428571,
+               "x" : 4970,
+               "className" : "Window",
+               "y" : 3856.75,
+               "sZ" : 110.71428571429,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(105,144,163)",
+                     "name" : "color_1"
+                  },
+                  {
+                     "color" : "rgb(163,163,163)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(163,163,163)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "126",
+               "z" : 0
+            },
+            {
+               "fY" : 1,
+               "a" : 0,
+               "fX" : 1,
+               "data" : {
+                  "width" : 64,
+                  "materials" : [
+                     {
+                        "color" : "rgb(105,144,163)",
+                        "name" : "color_1"
+                     },
+                     {
+                        "color" : "rgb(163,163,163)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(163,163,163)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 80,
+                  "colors" : []
+               },
+               "sX" : 92.5,
+               "x" : 4970,
+               "className" : "Door",
+               "y" : 3935.25,
+               "sZ" : 105.77777777778,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(105,144,163)",
+                     "name" : "color_1"
+                  },
+                  {
+                     "color" : "rgb(163,163,163)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(163,163,163)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "246",
+               "z" : 0
+            },
+            {
+               "fY" : 1,
+               "a" : 90,
+               "fX" : 1,
+               "data" : {
+                  "width" : 64,
+                  "materials" : [
+                     {
+                        "color" : "rgb(105,144,163)",
+                        "name" : "color_1"
+                     },
+                     {
+                        "color" : "rgb(163,163,163)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(163,163,163)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 80,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4509.625,
+               "className" : "Door",
+               "y" : 4840,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(105,144,163)",
+                     "name" : "color_1"
+                  },
+                  {
+                     "color" : "rgb(163,163,163)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(163,163,163)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "246",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 49.864514437761,
+               "fX" : 0,
+               "data" : {
+                  "width" : 12,
+                  "materials" : [
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(105,144,163)",
+                        "name" : "color_1"
+                     }
+                  ],
+                  "height" : 210,
+                  "colors" : []
+               },
+               "sX" : 95.238095238095,
+               "x" : 4719.0153818915,
+               "className" : "Window",
+               "y" : 4727.0066387973,
+               "sZ" : 139.28571428571,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(105,144,163)",
+                     "name" : "color_1"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "210",
+               "z" : -33
+            },
+            {
+               "fY" : 0,
+               "a" : 9.7824070318073,
+               "fX" : 0,
+               "data" : {
+                  "width" : 12,
+                  "materials" : [
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(105,144,163)",
+                        "name" : "color_1"
+                     }
+                  ],
+                  "height" : 210,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 5094.4839765183,
+               "className" : "Window",
+               "y" : 3897.9929361938,
+               "sZ" : 128.57142857143,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(105,144,163)",
+                     "name" : "color_1"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "210",
+               "z" : 10
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 12,
+                  "materials" : [
+                     {
+                        "color" : "rgb(105,144,163)",
+                        "name" : "color_1"
+                     },
+                     {
+                        "color" : "rgb(163,163,163)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(163,163,163)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 70,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4840,
+               "className" : "Window",
+               "y" : 4534.125,
+               "sZ" : 135.71428571429,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(105,144,163)",
+                     "name" : "color_1"
+                  },
+                  {
+                     "color" : "rgb(163,163,163)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(163,163,163)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "126",
+               "z" : -29
+            },
+            {
+               "fY" : 0,
+               "a" : 90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 12,
+                  "materials" : [
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(105,144,163)",
+                        "name" : "color_1"
+                     }
+                  ],
+                  "height" : 210,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4508.375,
+               "className" : "Window",
+               "y" : 4980,
+               "sZ" : 128.57142857143,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(105,144,163)",
+                     "name" : "color_1"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "210",
+               "z" : 10
+            },
+            {
+               "fY" : 0,
+               "a" : 49.253836436119,
+               "fX" : 0,
+               "data" : {
+                  "width" : 12,
+                  "materials" : [
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(105,144,163)",
+                        "name" : "color_1"
+                     }
+                  ],
+                  "height" : 210,
+                  "colors" : []
+               },
+               "sX" : 142.85714285714,
+               "x" : 4808.5397659652,
+               "className" : "Window",
+               "y" : 4839.10420163,
+               "sZ" : 128.57142857143,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(105,144,163)",
+                     "name" : "color_1"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "210",
+               "z" : 10
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 12,
+                  "materials" : [
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(105,144,163)",
+                        "name" : "color_1"
+                     }
+                  ],
+                  "height" : 210,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4970,
+               "className" : "Window",
+               "y" : 4523.125,
+               "sZ" : 128.57142857143,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(105,144,163)",
+                     "name" : "color_1"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "210",
+               "z" : 10
+            },
+            {
+               "fY" : 0,
+               "a" : 90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 107,
+                  "materials" : [
+                     {
+                        "color" : "#2d7473",
+                        "name" : "textile_",
+                        "texture" : "textile_1_6"
+                     },
+                     {
+                        "color" : "#9b9690",
+                        "name" : "textile",
+                        "texture" : "textile_3_5"
+                     },
+                     {
+                        "color" : "#d3955f",
+                        "name" : "wood",
+                        "texture" : "wood_3"
+                     }
+                  ],
+                  "height" : 212,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4728,
+               "className" : "Ns",
+               "y" : 4404,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#2d7473",
+                     "name" : "textile_",
+                     "texture" : "textile_2_2"
+                  },
+                  {
+                     "color" : "#9b9690",
+                     "name" : "textile",
+                     "texture" : "textile_3_5"
+                  },
+                  {
+                     "color" : "#d3955f",
+                     "name" : "wood",
+                     "texture" : "wood_3"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "78",
+               "z" : 0
+            },
+            {
+               "fY" : 1,
+               "a" : -90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 64,
+                  "materials" : [
+                     {
+                        "color" : "#32292a",
+                        "name" : "wood",
+                        "texture" : "wood_8"
+                     },
+                     {
+                        "color" : "rgb(255,245,115)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 80,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4487.5,
+               "className" : "Door",
+               "y" : 4345,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#32292a",
+                     "name" : "wood",
+                     "texture" : "wood_5"
+                  },
+                  {
+                     "color" : "rgb(255,245,115)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "122",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 110,
+                  "materials" : [
+                     {
+                        "color" : "#b68757",
+                        "name" : "wood",
+                        "texture" : "wood_1"
+                     }
+                  ],
+                  "height" : 54,
+                  "colors" : []
+               },
+               "sX" : 181.81818181818,
+               "x" : 4400,
+               "className" : "Ns",
+               "y" : 4732,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#b68757",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  }
+               ],
+               "sY" : 109.09090909091,
+               "id" : "105",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 103.68875859647,
+               "fX" : 0,
+               "data" : {
+                  "width" : 128,
+                  "materials" : [
+                     {
+                        "color" : "rgb(10,10,10)",
+                        "name" : "color_2"
+                     },
+                     {
+                        "color" : "rgb(0,0,0)",
+                        "name" : "color_1"
+                     }
+                  ],
+                  "height" : 10,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4383,
+               "className" : "Ns",
+               "y" : 4451,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(10,10,10)",
+                     "name" : "color_2"
+                  },
+                  {
+                     "color" : "rgb(0,0,0)",
+                     "name" : "color_1"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "114",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 139.41033691633,
+               "fX" : 0,
+               "data" : {
+                  "width" : 207,
+                  "materials" : [
+                     {
+                        "color" : "rgb(158,158,158)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#272727",
+                        "name" : "leather",
+                        "texture" : "leather_1_6"
+                     }
+                  ],
+                  "height" : 109,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4681,
+               "className" : "Ns",
+               "y" : 4682,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(158,158,158)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#272727",
+                     "name" : "leather",
+                     "texture" : "leather_1_5"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "260",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 142,
+                  "materials" : [
+                     {
+                        "color" : "rgb(109,150,163)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#5d3922",
+                        "name" : "wood",
+                        "texture" : "wood_7"
+                     }
+                  ],
+                  "height" : 47,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4084,
+               "className" : "Ns",
+               "y" : 3778,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(109,150,163)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#5d3922",
+                     "name" : "wood",
+                     "texture" : "wood_7"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "201",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 12,
+                  "materials" : [
+                     {
+                        "color" : "rgb(105,144,163)",
+                        "name" : "color_1"
+                     },
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(142,142,142)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 140,
+                  "colors" : []
+               },
+               "sX" : 105,
+               "x" : 3852.75,
+               "className" : "Window",
+               "y" : 3750,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(105,144,163)",
+                     "name" : "color_1"
+                  },
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(142,142,142)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "209",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 40,
+                  "materials" : [
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     }
+                  ],
+                  "height" : 48,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 3776,
+               "className" : "Ns",
+               "y" : 4021,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "146",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 40,
+                  "materials" : [
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     }
+                  ],
+                  "height" : 48,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 3777,
+               "className" : "Ns",
+               "y" : 3786,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "146",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -85.645550824398,
+               "fX" : 0,
+               "data" : {
+                  "width" : 128,
+                  "materials" : [
+                     {
+                        "color" : "rgb(10,10,10)",
+                        "name" : "color_2"
+                     },
+                     {
+                        "color" : "rgb(0,0,0)",
+                        "name" : "color_1"
+                     }
+                  ],
+                  "height" : 10,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4159,
+               "className" : "Ns",
+               "y" : 3978,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(10,10,10)",
+                     "name" : "color_2"
+                  },
+                  {
+                     "color" : "rgb(0,0,0)",
+                     "name" : "color_1"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "114",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 245.866252148,
+               "fX" : 0,
+               "data" : {
+                  "width" : 33,
+                  "materials" : [
+                     {
+                        "color" : "rgb(112,112,112)",
+                        "name" : "color_3"
+                     },
+                     {
+                        "color" : "rgb(10,10,10)",
+                        "name" : "color_2"
+                     },
+                     {
+                        "color" : "rgb(10,10,10)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(132,132,132)",
+                        "name" : "color_1"
+                     }
+                  ],
+                  "height" : 23,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4398,
+               "className" : "Ns",
+               "y" : 4797,
+               "sZ" : 100.30395136778,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(112,112,112)",
+                     "name" : "color_3"
+                  },
+                  {
+                     "color" : "rgb(10,10,10)",
+                     "name" : "color_2"
+                  },
+                  {
+                     "color" : "rgb(10,10,10)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(132,132,132)",
+                     "name" : "color_1"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "120",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 60,
+                  "height" : 15,
+                  "colors" : [
+                     "#7c7c7c",
+                     "#90491d",
+                     "#97765b",
+                     "#2e2e2e",
+                     "#ffffff"
+                  ]
+               },
+               "sX" : 291.66666666667,
+               "x" : 4267,
+               "className" : "Ns",
+               "y" : 4057,
+               "sZ" : 148.04469273743,
+               "color" : "#7c7c7c",
+               "sY" : 100,
+               "id" : "239",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 80,
+                  "materials" : [
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#d1a170",
+                        "name" : "stone",
+                        "texture" : "stone_7"
+                     }
+                  ],
+                  "height" : 62,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4398,
+               "className" : "Ns",
+               "y" : 3876,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#d1a170",
+                     "name" : "stone",
+                     "texture" : "stone_7"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "92",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 80,
+                  "materials" : [
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#d1a170",
+                        "name" : "stone",
+                        "texture" : "stone_7"
+                     }
+                  ],
+                  "height" : 62,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4462,
+               "className" : "Ns",
+               "y" : 3787,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#d1a170",
+                     "name" : "stone",
+                     "texture" : "stone_7"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "232",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 60,
+                  "materials" : [
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#d1a170",
+                        "name" : "stone",
+                        "texture" : "stone_7"
+                     }
+                  ],
+                  "height" : 62,
+                  "colors" : []
+               },
+               "sX" : 133.33333333333,
+               "x" : 4398,
+               "className" : "Ns",
+               "y" : 3796,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#d1a170",
+                     "name" : "stone",
+                     "texture" : "stone_7"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "86",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 60,
+                  "materials" : [
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#d1a170",
+                        "name" : "stone",
+                        "texture" : "stone_7"
+                     }
+                  ],
+                  "height" : 62,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4532,
+               "className" : "Ns",
+               "y" : 3787,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#d1a170",
+                     "name" : "stone",
+                     "texture" : "stone_7"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "86",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 80,
+                  "materials" : [
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#d1a170",
+                        "name" : "stone",
+                        "texture" : "stone_7"
+                     }
+                  ],
+                  "height" : 62,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4398,
+               "className" : "Ns",
+               "y" : 3956,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#d1a170",
+                     "name" : "stone",
+                     "texture" : "stone_7"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "92",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 60,
+                  "materials" : [
+                     {
+                        "color" : "rgb(114,146,163)",
+                        "name" : "color_3"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color_2"
+                     },
+                     {
+                        "color" : "rgb(173,173,173)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(91,91,91)",
+                        "name" : "color_1"
+                     }
+                  ],
+                  "height" : 68,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4401,
+               "className" : "Ns",
+               "y" : 4041,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(114,146,163)",
+                     "name" : "color_3"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color_2"
+                  },
+                  {
+                     "color" : "rgb(173,173,173)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(91,91,91)",
+                     "name" : "color_1"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "102",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 80,
+                  "materials" : [
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#d1a170",
+                        "name" : "stone",
+                        "texture" : "stone_7"
+                     }
+                  ],
+                  "height" : 62,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4662,
+               "className" : "Ns",
+               "y" : 3787,
+               "sZ" : 76.923076923077,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#d1a170",
+                     "name" : "stone",
+                     "texture" : "stone_7"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "92",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 60,
+                  "materials" : [
+                     {
+                        "color" : "rgb(10,10,10)",
+                        "name" : "color_3"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(0,0,0)",
+                        "name" : "color_1"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "rgb(0,0,0)",
+                        "name" : "color_1"
+                     },
+                     {
+                        "color" : "rgb(43,0,0)",
+                        "name" : "color_2"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     },
+                     {
+                        "color" : "#d1a170",
+                        "name" : "stone",
+                        "texture" : "stone_7"
+                     }
+                  ],
+                  "height" : 62,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4591,
+               "className" : "Ns",
+               "y" : 3841,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(10,10,10)",
+                     "name" : "color_3"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(0,0,0)",
+                     "name" : "color_1"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "rgb(0,0,0)",
+                     "name" : "color_1"
+                  },
+                  {
+                     "color" : "rgb(43,0,0)",
+                     "name" : "color_2"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  },
+                  {
+                     "color" : "#d1a170",
+                     "name" : "stone",
+                     "texture" : "stone_7"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "101",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 60,
+                  "materials" : [
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#d1a170",
+                        "name" : "stone",
+                        "texture" : "stone_7"
+                     }
+                  ],
+                  "height" : 62,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4592,
+               "className" : "Ns",
+               "y" : 3787,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#d1a170",
+                     "name" : "stone",
+                     "texture" : "stone_7"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "86",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 80,
+                  "materials" : [
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#d1a170",
+                        "name" : "stone",
+                        "texture" : "stone_7"
+                     }
+                  ],
+                  "height" : 62,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4742,
+               "className" : "Ns",
+               "y" : 3787,
+               "sZ" : 76.923076923077,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#d1a170",
+                     "name" : "stone",
+                     "texture" : "stone_7"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "92",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 80,
+                  "materials" : [
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#d1a170",
+                        "name" : "stone",
+                        "texture" : "stone_7"
+                     }
+                  ],
+                  "height" : 62,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4822,
+               "className" : "Ns",
+               "y" : 3787,
+               "sZ" : 76.923076923077,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#d1a170",
+                     "name" : "stone",
+                     "texture" : "stone_7"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "92",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 80,
+                  "materials" : [
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#d1a170",
+                        "name" : "stone",
+                        "texture" : "stone_7"
+                     }
+                  ],
+                  "height" : 62,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4902,
+               "className" : "Ns",
+               "y" : 3787,
+               "sZ" : 76.923076923077,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#d1a170",
+                     "name" : "stone",
+                     "texture" : "stone_7"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "92",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -180,
+               "fX" : 0,
+               "data" : {
+                  "width" : 128,
+                  "materials" : [
+                     {
+                        "color" : "rgb(10,10,10)",
+                        "name" : "color_2"
+                     },
+                     {
+                        "color" : "rgb(0,0,0)",
+                        "name" : "color_1"
+                     }
+                  ],
+                  "height" : 10,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4817,
+               "className" : "Ns",
+               "y" : 3763,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(10,10,10)",
+                     "name" : "color_2"
+                  },
+                  {
+                     "color" : "rgb(0,0,0)",
+                     "name" : "color_1"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "114",
+               "z" : 16
+            },
+            {
+               "fY" : 0,
+               "a" : -89.972145952844,
+               "fX" : 0,
+               "data" : {
+                  "width" : 144,
+                  "materials" : [
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     },
+                     {
+                        "color" : "#8a6f42",
+                        "name" : "textile",
+                        "texture" : "textile_2_1"
+                     }
+                  ],
+                  "height" : 134,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4780,
+               "className" : "Ns",
+               "y" : 3962,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  },
+                  {
+                     "color" : "#8a6f42",
+                     "name" : "textile",
+                     "texture" : "textile_2_1"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "134",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 41,
+                  "materials" : [
+                     {
+                        "color" : "rgb(149,135,54)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 22,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4958,
+               "className" : "Ns",
+               "y" : 4130,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(149,135,54)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "175",
+               "z" : -85
+            },
+            {
+               "fY" : 0,
+               "a" : -90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 41,
+                  "materials" : [
+                     {
+                        "color" : "rgb(149,135,54)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 22,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 3769,
+               "className" : "Ns",
+               "y" : 3941,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(149,135,54)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "175",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 41,
+                  "materials" : [
+                     {
+                        "color" : "rgb(149,135,54)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 22,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 3769,
+               "className" : "Ns",
+               "y" : 3867,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(149,135,54)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "175",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 41,
+                  "materials" : [
+                     {
+                        "color" : "rgb(149,135,54)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 22,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4734,
+               "className" : "Ns",
+               "y" : 4361,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(149,135,54)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "175",
+               "z" : -80
+            },
+            {
+               "fY" : 0,
+               "a" : 138.35789242968,
+               "fX" : 0,
+               "data" : {
+                  "width" : 22,
+                  "materials" : [
+                     {
+                        "name" : "Material"
+                     }
+                  ],
+                  "height" : 38,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4598,
+               "className" : "Ns",
+               "y" : 4797,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "name" : "Material"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "178",
+               "z" : -60
+            },
+            {
+               "fY" : 0,
+               "a" : 138.613880752,
+               "fX" : 0,
+               "data" : {
+                  "width" : 22,
+                  "materials" : [
+                     {
+                        "name" : "Material"
+                     }
+                  ],
+                  "height" : 38,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4800,
+               "className" : "Ns",
+               "y" : 4626,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "name" : "Material"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "178",
+               "z" : -60
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 1,
+                  "materials" : [
+                     {
+                        "color" : "rgb(137,154,163)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 8,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4764,
+               "className" : "Ns",
+               "y" : 3928,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(137,154,163)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "244",
+               "z" : 6
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 1,
+                  "materials" : [
+                     {
+                        "color" : "rgb(137,154,163)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 8,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4802,
+               "className" : "Ns",
+               "y" : 3928,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(137,154,163)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "244",
+               "z" : 6
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 1,
+                  "materials" : [
+                     {
+                        "color" : "rgb(137,154,163)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 8,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4801,
+               "className" : "Ns",
+               "y" : 4004,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(137,154,163)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "244",
+               "z" : 6
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 1,
+                  "materials" : [
+                     {
+                        "color" : "rgb(137,154,163)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 8,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4763,
+               "className" : "Ns",
+               "y" : 4003,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(137,154,163)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "244",
+               "z" : 6
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 1,
+                  "height" : 6,
+                  "colors" : [
+                     "#236403",
+                     "#004d6b"
+                  ]
+               },
+               "sX" : 100,
+               "x" : 4779,
+               "className" : "Ns",
+               "y" : 3964,
+               "sZ" : 100,
+               "color" : "#236403",
+               "materials" : [
+                  {
+                     "color" : "rgb(7,36,4)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "243",
+               "z" : 6
+            },
+            {
+               "fY" : 0,
+               "a" : 0,
+               "fX" : 0,
+               "data" : {
+                  "width" : 30,
+                  "height" : 22,
+                  "colors" : [
+                     "#af241e"
+                  ]
+               },
+               "sX" : 100,
+               "x" : 4593,
+               "className" : "Ns",
+               "y" : 3770,
+               "sZ" : 100,
+               "color" : "#af241e",
+               "sY" : 100,
+               "id" : "265",
+               "z" : 18
+            },
+            {
+               "fY" : 0,
+               "a" : -180,
+               "fX" : 0,
+               "data" : {
+                  "width" : 7,
+                  "height" : 4,
+                  "colors" : [
+                     "#ffffff",
+                     "#7c7c7c",
+                     "#90491d",
+                     "#007bcf",
+                     "#8fde68",
+                     "#f8a400",
+                     "#2e2e2e",
+                     "#004d6b"
+                  ]
+               },
+               "sX" : 100,
+               "x" : 4575,
+               "className" : "Ns",
+               "y" : 4032,
+               "sZ" : 100,
+               "color" : "#ffffff",
+               "materials" : [
+                  {
+                     "color" : "rgb(173,173,173)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "279",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : 90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 17,
+                  "height" : 20,
+                  "colors" : [
+                     "#007bcf",
+                     "#af241e",
+                     "#8fde68",
+                     "#f8a400",
+                     "#2e2e2e",
+                     "#7c7c7c",
+                     "#97765b"
+                  ]
+               },
+               "sX" : 100,
+               "x" : 4884,
+               "className" : "Ns",
+               "y" : 4122,
+               "sZ" : 100,
+               "color" : "#007bcf",
+               "sY" : 100,
+               "id" : "148",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -80.444433564049,
+               "fX" : 0,
+               "data" : {
+                  "width" : 55,
+                  "height" : 25,
+                  "colors" : [
+                     "#97765b",
+                     "#004d6b",
+                     "#f8a400"
+                  ]
+               },
+               "sX" : 100,
+               "x" : 4398,
+               "className" : "Ns",
+               "y" : 3869,
+               "sZ" : 100,
+               "color" : "#97765b",
+               "sY" : 100,
+               "id" : "245",
+               "z" : 1
+            },
+            {
+               "fY" : 0,
+               "a" : -90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 80,
+                  "materials" : [
+                     {
+                        "color" : "#d5bb8c",
+                        "name" : "tile",
+                        "texture" : "tile_4_2"
+                     },
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 47,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4390,
+               "className" : "Ns",
+               "y" : 3956,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#d5bb8c",
+                     "name" : "tile",
+                     "texture" : "tile_4_2"
+                  },
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "250",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 80,
+                  "materials" : [
+                     {
+                        "color" : "#d5bb8c",
+                        "name" : "tile",
+                        "texture" : "tile_4_2"
+                     },
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 47,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4390,
+               "className" : "Ns",
+               "y" : 3876,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#d5bb8c",
+                     "name" : "tile",
+                     "texture" : "tile_4_2"
+                  },
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "250",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 80,
+                  "materials" : [
+                     {
+                        "color" : "#d5bb8c",
+                        "name" : "tile",
+                        "texture" : "tile_4_2"
+                     },
+                     {
+                        "color" : "#995c2f",
+                        "name" : "wood",
+                        "texture" : "wood_4"
+                     },
+                     {
+                        "color" : "rgb(71,71,71)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 47,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4390,
+               "className" : "Ns",
+               "y" : 3796,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "#d5bb8c",
+                     "name" : "tile",
+                     "texture" : "tile_4_2"
+                  },
+                  {
+                     "color" : "#995c2f",
+                     "name" : "wood",
+                     "texture" : "wood_4"
+                  },
+                  {
+                     "color" : "rgb(71,71,71)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "250",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -90,
+               "fX" : 0,
+               "data" : {
+                  "width" : 41,
+                  "materials" : [
+                     {
+                        "color" : "rgb(149,135,54)",
+                        "name" : "color"
+                     }
+                  ],
+                  "height" : 22,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4377,
+               "className" : "Ns",
+               "y" : 4728,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(149,135,54)",
+                     "name" : "color"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "175",
+               "z" : -90
+            },
+            {
+               "fY" : 0,
+               "a" : -114.25461901144,
+               "fX" : 0,
+               "data" : {
+                  "width" : 63,
+                  "materials" : [
+                     {
+                        "color" : "rgb(10,10,10)",
+                        "name" : "color_"
+                     },
+                     {
+                        "color" : "rgb(91,91,91)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#32292a",
+                        "name" : "wood",
+                        "texture" : "wood_8"
+                     },
+                     {
+                        "color" : "#232323",
+                        "name" : "leather",
+                        "texture" : "leather_2_6"
+                     }
+                  ],
+                  "height" : 51,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4450,
+               "className" : "Ns",
+               "y" : 4776,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(10,10,10)",
+                     "name" : "color_"
+                  },
+                  {
+                     "color" : "rgb(91,91,91)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#32292a",
+                     "name" : "wood",
+                     "texture" : "wood_8"
+                  },
+                  {
+                     "color" : "#232323",
+                     "name" : "leather",
+                     "texture" : "leather_2_6"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "106",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -180,
+               "fX" : 0,
+               "data" : {
+                  "width" : 60,
+                  "height" : 15,
+                  "colors" : [
+                     "#7c7c7c",
+                     "#90491d",
+                     "#97765b",
+                     "#2e2e2e",
+                     "#ffffff"
+                  ]
+               },
+               "sX" : 233.33333333333,
+               "x" : 3911,
+               "className" : "Ns",
+               "y" : 4047,
+               "sZ" : 149.16201117318,
+               "color" : "#7c7c7c",
+               "sY" : 100,
+               "id" : "239",
+               "z" : 0
+            },
+            {
+               "fY" : 0,
+               "a" : -180,
+               "fX" : 0,
+               "data" : {
+                  "width" : 60,
+                  "materials" : [
+                     {
+                        "color" : "rgb(117,159,163)",
+                        "name" : "color"
+                     },
+                     {
+                        "color" : "#f3e3b8",
+                        "name" : "wood",
+                        "texture" : "wood_5"
+                     }
+                  ],
+                  "height" : 4,
+                  "colors" : []
+               },
+               "sX" : 100,
+               "x" : 4781,
+               "className" : "Ns",
+               "y" : 4033,
+               "sZ" : 100,
+               "color" : "#48230d",
+               "materials" : [
+                  {
+                     "color" : "rgb(117,159,163)",
+                     "name" : "color"
+                  },
+                  {
+                     "color" : "#f3e3b8",
+                     "name" : "wood",
+                     "texture" : "wood_5"
+                  }
+               ],
+               "sY" : 100,
+               "id" : "144",
+               "z" : 0
+            }
+         ]
+      }
+   ]
+}
+
