@@ -304,7 +304,7 @@ sub povCamera
 	my $location = shift;
 	my $lookAt = shift;
 	$self->calcBounds($root);
-	$location ||= [0, -$root->{sizeY} * 1, 1000];
+	$location ||= [0, -$root->{sizeY} * 1, 1500];
 	$lookAt ||= [0, 0, 0];
 	my $result = '';
 	$result .= qq|camera{|;
@@ -341,7 +341,7 @@ sub povSunsetLight
 {
 	my $self = shift;
 	my $root = shift;
-	return qq|light_source {<150000,100000,150000> color <2, 0.8, 0.5>}\n|;
+	return qq|light_source {<150000,100000,100000> color <2, 0.8, 0.5>}\n|;
 }
 
 #
@@ -357,7 +357,7 @@ sub povGrass
 	$result .= '<' . ($root->{centerX} - $root->{width}/2) . ',' . ($root->{centerY} - $root->{height}/2) . ',-0.1>,';
 	$result .= '<' . ($root->{centerX} + $root->{width}/2) . ',' . ($root->{centerY} + $root->{height}/2) . ',-0.01>';
 	my $basePath = $self->{storage}->{basePath};
-	$result .= qq|texture{pigment{image_map{jpeg "$basePath/textures/grass_8.jpg" interpolate 2}} finish {diffuse 0.5}}|;
+	$result .= qq|texture{pigment{image_map{jpeg "$basePath/textures/grass_8.jpg" interpolate 2}} finish {diffuse 0.5} scale 300}|;
 	$result .= "}\n";
 }
 
