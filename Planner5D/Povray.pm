@@ -394,7 +394,7 @@ sub povDefWalls
 	my $root = shift;
 	my $result = '';
 	$result .= qq|#declare Walls=object{union{\n|;
-	$result .= $root->povItems($povray, 'Walls');
+	$result .= $root->povItems($self, 'Walls');
 	$result .= qq|}}\n\n|;
 	return $result;
 }
@@ -405,7 +405,7 @@ sub povDefWindowsDoors
 	my $root = shift;
 	my $result = '';
 	$result .= qq|#declare WindowsDoors=object{union{\n|;
-	$result .= $root->povItems($povray, 'WindowsDoors');
+	$result .= $root->povItems($self, 'WindowsDoors');
 	$result .= qq|}}\n\n|;
 	return $result;
 }
@@ -416,7 +416,7 @@ sub povDefWindowsDoorsHoles
 	my $root = shift;
 	my $result = '';
 	$result .= qq|#declare WindowsDoorsHoles=object{union{\n|;
-	$result .= $root->povItems($povray, 'WindowsDoorsHoles');
+	$result .= $root->povItems($self, 'WindowsDoorsHoles');
 	$result .= qq|}}\n\n|;
 	return $result;
 }
@@ -427,7 +427,7 @@ sub povDefFloor
 	my $root = shift;
 	my $result = '';
 	$result .= qq|#declare Floor=object{union{\n|;
-	$result .= $root->povItems($povray, 'Floor');
+	$result .= $root->povItems($self, 'Floor');
 	$result .= qq|}}\n\n|;
 	return $result;
 }
@@ -438,7 +438,7 @@ sub povDefCeiling
 	my $root = shift;
 	my $result = '';
 	$result .= qq|#declare Ceiling=object{union{\n|;
-	$result .= $root->povItems($povray, 'Ceiling');
+	$result .= $root->povItems($self, 'Ceiling');
 	$result .= qq|}}\n\n|;
 	return $result;
 }
@@ -449,7 +449,7 @@ sub povDefObjects
 	my $root = shift;
 	my $result = '';
 	$result .= qq|#declare Objects=object{union{\n|;
-	$result .= $root->povItems($povray, 'Objects');
+	$result .= $root->povItems($self, 'Objects');
 	$result .= qq|}}\n\n|;
 	return $result;
 }
