@@ -100,13 +100,15 @@ sub meshPov
 	$result .= qq|}\n|;
 
 	# UV vectors
-	my @uvs = @{$model->{uvs}->[0]};
-	my $nuvs = int(scalar(@uvs) / 2);
-	$result .= qq|uv_vectors{$nuvs|;
-	for my $i (0 .. ($nuvs - 1)) {
-		$result .= ',<' . $uvs[$i * 2] . ',' . $uvs[$i * 2 + 1] . '>';
-	}
-	$result .= qq|}\n|;
+        if ($model->{uvs} && $model->{uvs}->[0]) {
+            my @uvs = @{$model->{uvs}->[0]};
+            my $nuvs = int(scalar(@uvs) / 2);
+            $result .= qq|uv_vectors{$nuvs|;
+            for my $i (0 .. ($nuvs - 1)) {
+                    $result .= ',<' . $uvs[$i * 2] . ',' . $uvs[$i * 2 + 1] . '>';
+            }
+            $result .= qq|}\n|;
+        }
 
 	# Textures
 	my @materials = @{$model->{materials}};
